@@ -1,11 +1,19 @@
-# 钰琦私密聊天室 · Windows 便携版
+# 这不是聊天室服务器
 
-## 下载
+请不要把 `hjkjvb/yuqi-private-chat-windows` 填进 Windows EXE。这个路径只是 GitHub 仓库，不是网站。
 
-打开这个页面，点金色按钮：
+## 真正的聊天室
 
-https://cdn.jsdelivr.net/gh/hjkjvb/yuqi-private-chat-windows@main/download.html
+https://yuqi-private-chat.immense-skirt.workers.dev
 
-仓库：https://github.com/hjkjvb/yuqi-private-chat-windows
+游客密码：`yqsj666666`
 
-解压后双击 `钰琦私密聊天室.exe`。第一次填写已上线的聊天室网址，进入密码 `yqsj666666`。
+## 完整源码（新仓库）
+
+https://github.com/hjkjvb/yuqi-private-chat
+
+Windows 下载：https://github.com/hjkjvb/yuqi-private-chat/releases/latest
+
+码云导入：https://gitee.com/projects/new?clone_url=https://github.com/hjkjvb/yuqi-private-chat.git
+
+旧版 EXE 若记住了错误地址：删掉同目录 `config.json`，或换新版（菜单 设置 → 恢复默认地址）。
